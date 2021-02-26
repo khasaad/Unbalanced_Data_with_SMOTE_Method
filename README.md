@@ -1,3 +1,3 @@
 
-# Unbalanced_Data_with_SMOTE_Method
+# Unbalanced Data with SMOTE Method
 
